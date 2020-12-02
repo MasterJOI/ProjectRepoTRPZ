@@ -1,5 +1,6 @@
 The English version of the description
 ======================================
+
 Workstation Administrator Computer store
 -----------------------------------
 **Functional:**
@@ -12,8 +13,20 @@ Workstation Administrator Computer store
 * Making a musical composition on the dance floor
 * Order a musical composition by the client with the ability to pay by credit card
 * Playlist DJ, music management ordered
+=======
+Workstation Administrator of a computer goods store
+-----------------------------------
+**Functional:**
+* Buyer registration
+* Accounting and work with customers (purchases)
+* View a report on purchases for the period in tabular form or in the form of a graph
+* Accounting and maintaining a customer base
+* Making an order in the store
+* Monitoring the status of orders
+* Customer orders of computer goods with the possibility of payment by bank card
 
-> Open to discuss offers on web-development. Experience full-stack developer since.
+
+
 
 > PHP, MySQL, SQL, HTML, CSS, JavaScript, jQuery, Ajax, JSON, Yii2, Git, Telegram API.
 
@@ -33,3 +46,17 @@ Workstation Administrator Computer store
 * Оформлення музичної композиції на танцполі
 * Замовлення клієнтом музичної композиції з можливістю оплати банківською картою
 * Плейлист DJ, управління замовленої музикою
+=======
+Українська версія опису
+======================================
+Автоматизоване робоче місце адміністратора копм'ютерних товарів
+-----------------------------------
+**Функціонал:**
+* Реєстрація покупця
+* Облік і робота з покупцями (покупки)
+* Перегляд звіту про покупках за період в табличній формі або у вигляді графіка
+* Облік і ведення бази покупців
+* Оформлення замовлення в магазині
+* Контроль стану замовлень
+* Замовлення клієнтом комп'ютерних товарів з можливістю оплати банківською картою
+

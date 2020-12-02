@@ -16,14 +16,15 @@ Workstation Administrator Computer store
 =======
 Workstation Administrator of a computer goods store
 -----------------------------------
-**Functional:**
-* Buyer registration
-* Accounting and work with customers (purchases)
-* View a report on purchases for the period in tabular form or in the form of a graph
-* Accounting and maintaining a customer base
-* Making an order in the store
-* Monitoring the status of orders
-* Customer orders of computer goods with the possibility of payment by bank card
+* registrera dig för nya kunder
+* Redovisning och arbete med besökare (besök)
+* Visa en besöksrapport för perioden i tabellform eller som ett diagram
+* Redovisning och hantering av kundbasen
+* Att göra bordet i en restaurang
+* Kontrolltabell Sysselsättning
+* Skapa en musikalisk komposition på dansgolvet
+* Beställ en musikalisk komposition av klienten med möjlighet att betala med kreditkort
+* Spellista DJ, beställd musikhantering
 
 
 
